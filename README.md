@@ -72,7 +72,8 @@ Kanchan's-HALL-Detect is based on the observation that hallucinations often aris
 
 The overall flow of Kanchan's-HALL-Detect is illustrated below:
 
-![pipeline](pipeline.pdf)
+![diagram](pipeline.pdf)
+
 Each module operates independently and contributes a distinct aspect of the model's internal behaviour. Together, they create a comprehensive signal ensemble that reflects the likelihood of factual instability.
 
 ## Module Independence and Complementarity
